@@ -3,6 +3,8 @@ Superagent mocker Demo
 
 Mocker for superagent.
 
+Deprecated: Use `nock` which is much better, see: <https://github.com/js-demos/superagent-nock-demo>
+
 Notice
 ------
 
