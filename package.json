@@ -1,0 +1,16 @@
+{
+  "name": "superagent-mocker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^2.2.0",
+    "superagent-mocker": "^0.4.0"
+  }
+}
